@@ -1,2 +1,2 @@
 # DS2-Time-Freeze
-A project for a human-computer interaction class, in which we remapped the keyboard input controls for Time Freeze, a game available on Armor Games, to hand gestures using MediaPipe Gesture Recognizer and PyAutoGUI. Full explanation of the design process and project is in a Medium blog: 
+A project for a human-computer interaction class, in which we remapped the keyboard input controls for Time Freeze, a game available on Armor Games, to hand gestures using MediaPipe Gesture Recognizer and PyAutoGUI. Full explanation of the design process and project is in a Medium blog: https://medium.com/@sboberg617/hands-on-the-clock-designing-gesture-based-inputs-for-time-freeze-ead90db26f9e
